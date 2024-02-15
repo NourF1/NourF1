@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlkZjFmZGUwNDY2NzU0OWY1OWQyODkyMmE5ZGVkZjNjYTdiMGNlZSZjdD1n/11jacPItBsJDLa/giphy.gif"
 - 🔭 I’m currently working on **case studies**
 
-- 🌱 I’m currently learning **python**
+- 🌱 Proficient in **Python** and packages as (numpy, pandas, matplotlib, seaborn0
 
-- 💬 Ask me about **Excel, SQL, PowerBI**
+- 💬 Ask me about **Excel, SQL, Tableau, PowerBI, Python**
 
 - 📫 How to reach me **nouramr900nour@gmail.com**
 
